@@ -1,0 +1,7 @@
+nmap-network-scanning/
+│
+├── README.md
+├── scan-results.txt
+└── screenshots/
+    ├── nmap-scan.png
+    └── nmap-version.png
