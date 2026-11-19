@@ -230,3 +230,19 @@ View Access Control Screenshots
 Disclaimer
 
 This project was completed in a controlled virtual lab environment for educational and cybersecurity training purposes.
+
+## Project Evidence
+
+The following folders contain screenshots documenting the lab configuration and testing.
+
+### 1. Active Directory Setup
+
+[View Active Directory Setup Screenshots](project-evidence/setup/)
+
+### 2. Group Policy Configuration
+
+[View Group Policy Screenshots](project-evidence/group-policy/)
+
+### 3. Departmental Access Control
+
+[View Access Control Screenshots](project-evidence/access-control/)
