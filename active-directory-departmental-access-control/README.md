@@ -237,7 +237,7 @@ The following folders contain screenshots documenting the lab configuration and 
 
 ### 1. Active Directory Setup
 
-[View Active Directory Setup Screenshots](project-evidence/setup/)
+[View Active Directory Setup Screenshots](project-evidence/SETUP/)
 
 ### 2. Group Policy Configuration
 
@@ -245,4 +245,4 @@ The following folders contain screenshots documenting the lab configuration and 
 
 ### 3. Departmental Access Control
 
-[View Access Control Screenshots](project-evidence/access-control/)
+[View Access Control Screenshots](project-evidence/Access%20Control/access-control/)
