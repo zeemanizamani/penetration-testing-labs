@@ -241,7 +241,7 @@ The following folders contain screenshots documenting the lab configuration and 
 
 ### 2. Group Policy Configuration
 
-[View Group Policy Screenshots](project-evidence/group-policy/)
+[View Group Policy Screenshots](project-evidence/GROUP%20POLICY/group-policy/)
 
 ### 3. Departmental Access Control
 
